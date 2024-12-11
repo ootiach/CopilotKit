@@ -47,8 +47,8 @@
 <br />
 
 
-<!--img width="1685" alt="220" src="https://github.com/user-attachments/assets/43d54917-8a11-43a5-9ea4-ffe789b6d07b" /-->
-<img width="1685" alt="220__" src="https://github.com/user-attachments/assets/788ef842-7166-4316-9871-3ebe1cd2a121" />
+<img width="1201" alt="220_2" src="https://github.com/user-attachments/assets/6cefd956-fd5f-4aeb-9bda-ad537cda5d02" />
+
 
 
 
